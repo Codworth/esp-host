@@ -1,7 +1,8 @@
 # esp-host
 
 Benefits of using ESP8266
-
+    
+    -extremely low cost hardware
     -completely block all possibility of updates
     -ability to run 24/7 via usb, self-hosted , no apps or programs required.
     -no need to edit dns servers or settings, features automatic redirect.
@@ -28,7 +29,15 @@ Instructions:
     
     *windows users must use the appropraite com port when flashing with esptool.py*
     
+Compataible boards:
 
+These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larger will work.
 
-
+    ESP8266 NodeMcuV2 4M wifi Module        (amazon) https://tinyurl.com/y9xskhcy
+    			                (aliexpress) https://tinyurl.com/y7jq3fnq
+                                     
+    ESP8266 D1 Mini NodeMcu 4M              (amazon) https://tinyurl.com/y9mx83ev
+                                            (aliexpress)https://tinyurl.com/y8rqfafz
+                               
+                               
 
