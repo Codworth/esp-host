@@ -1,6 +1,6 @@
 # esp-host
 
-Today I show you a very simple procedure to serve payloads , flash the included .bin to any esp8266 module with 4M flash or larger and connect to the wifi network named "PS4-WIFI" , then go to [Settings] > [User Guide]
+Today I show you a simple way to serve payload using the esp8266 , simply flash the included .bin to any esp8266 module with 4M flash or larger and connect to the wifi network named "PS4-WIFI" , then go to [Settings] > [User Guide]
 
 ![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esp8266.jpg)
 
