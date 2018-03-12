@@ -51,4 +51,9 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
    ![alt tag](https://images-na.ssl-images-amazon.com/images/I/71EzBFuoVqL._SY355_.jpg)
                                
                                
+   To-Do
+    
+    -add ability to set custom SSID with password
+    -add ability to serve multiple payloads 
+    -fix any bugs                           
 
