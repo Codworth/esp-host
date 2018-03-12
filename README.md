@@ -12,7 +12,6 @@ Benefits of using ESP8266
 
 Requirements:
 
-    -linux, windows or mac
     -esptool.py or other suitable esp8266 flashing tool (many available)
     -ESP8266 Wifi Module with at least 4M flash 
     -Firmware 4.55
@@ -25,7 +24,7 @@ Instructions:
 
     sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 0x400000 ./esphost.bin
     
-    after flashing completes, connect to "PS4-WIFI" using "easy setting"  then launch as normal.
+    after flashing completes, connect to "PS4-WIFI" using "easy setting"  then launch payload as normal.
     
     *windows users must use the appropraite com port when flashing with esptool.py*
     
