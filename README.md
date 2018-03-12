@@ -18,7 +18,7 @@ Benefits of using the ESP8266
 
 Requirements:
 
-    -esptool.py https://github.com/espressif/esptool or other suitable esp8266 flashing tool (many available)
+    -esptool.py https://github.com/espressif/esptool or esptool-gui https://github.com/Rodmg/esptool-gui
     -ESP8266 Wifi Module with at least 4M flash https://tinyurl.com/y9xskhcy
     -Firmware 4.55 
 
@@ -26,14 +26,14 @@ Requirements:
 
 
 Instructions:
-    flash the ESP8366 using the following command:
+
+    Flash esphost.bin using the following command:
 
     sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 0x400000 ./esphost.bin
     
     -after flashing completes, connect to "PS4-WIFI" using "easy setting" then go to [Settings] > [User Guide]
     
     -NOTE: windows users must use the appropraite com port when flashing with esptool.py
-    
     
     
 Compataible boards:
