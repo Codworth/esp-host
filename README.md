@@ -33,10 +33,10 @@ Instructions:
     
     -after flashing completes, connect to "PS4-WIFI" using "easy setting" then go to [Settings] > [User Guide]
     
-    -NOTE: windows users must use the appropraite com port when flashing with esptool.py
+    -NOTE: windows users must use the appropriate com port when flashing with esptool.py
     
     
-Compataible boards:
+Compatible boards:
 
 These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larger will work.
 
