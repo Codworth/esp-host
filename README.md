@@ -1,16 +1,17 @@
 # esp-host
 
+Today I show you a very simple procedure to serve payloads , flash the included .bin to any esp8266 module with 4M flash or larger and connect to the wifi network named "PS4-WIFI" , then go to [Settings] > [User Guide]
+
 ![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esp8266.jpg)
 
 
 Benefits of using the ESP8266
 
-    -very simple procedure, just flash the included .bin and connect to the wifi network.
-    -extremely low cost hardware , available worldwide 
+    -extremely low cost hardware , available worldwide
+    -easy to program and update via usb
     -completely block all possibility of firmware updates
     -ability to run 24/7 via usb, self-hosted payload, no external apps or programs required.
     -no need to edit dns servers or settings, features automatic redirect.
-    -easy updates via usb
     -very low power consumption
 
 
