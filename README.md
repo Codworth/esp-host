@@ -26,7 +26,7 @@ Requirements:
 
 
 Instructions:
-    -flash the ESP8366 using the following command:
+    flash the ESP8366 using the following command:
 
     sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 0x400000 ./esphost.bin
     
