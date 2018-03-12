@@ -1,4 +1,6 @@
 # esp-host
+![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esp8266.jpg)
+
 
 Benefits of using ESP8266
     
