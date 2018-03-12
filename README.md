@@ -18,9 +18,9 @@ Benefits of using the ESP8266
 
 Requirements:
 
-    -esptool.py or other suitable esp8266 flashing tool (many available)
-    -ESP8266 Wifi Module with at least 4M flash 
-    -Firmware 4.55
+    -esptool.py https://github.com/espressif/esptool or other suitable esp8266 flashing tool (many available)
+    -ESP8266 Wifi Module with at least 4M flash https://tinyurl.com/y9xskhcy
+    -Firmware 4.55 
 
 
 
