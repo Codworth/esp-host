@@ -34,9 +34,13 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
 
     ESP8266 NodeMcuV2 4M wifi Module        (amazon) https://tinyurl.com/y9xskhcy
     			                (aliexpress) https://tinyurl.com/y7jq3fnq
+                                
+   ![alt tag](https://images-na.ssl-images-amazon.com/images/I/51XTrgJ-HLL._SL500_AC_SS350_.jpg)
+   
                                      
     ESP8266 D1 Mini NodeMcu 4M              (amazon) https://tinyurl.com/y9mx83ev
                                             (aliexpress)https://tinyurl.com/y8rqfafz
+   ![alt tag](https://images-na.ssl-images-amazon.com/images/I/71EzBFuoVqL._SY355_.jpg)
                                
                                
 
