@@ -22,13 +22,15 @@ Requirements:
 
 
 Instructions:
-    Using esptool.py the included bin can be flashed using the following command:
+    -flash the ESP8366 using the following command:
 
     sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 0x400000 ./esphost.bin
     
-    after flashing completes, connect to "PS4-WIFI" using "easy setting"  then launch payload as normal.
+    -after flashing completes, connect to "PS4-WIFI" using "easy setting"  then launch payload as normal.
     
-    *windows users must use the appropraite com port when flashing with esptool.py*
+    -NOTE: windows users must use the appropraite com port when flashing with esptool.py
+    
+    
     
 Compataible boards:
 
