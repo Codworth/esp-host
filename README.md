@@ -1,12 +1,14 @@
 # esp-host
+
 ![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esp8266.jpg)
 
 
-Benefits of using ESP8266
-    
-    -extremely low cost hardware
-    -completely block all possibility of updates
-    -ability to run 24/7 via usb, self-hosted , no apps or programs required.
+Benefits of using the ESP8266
+
+    -very simple procedure, just flash the included .bin and connect to the wifi network.
+    -extremely low cost hardware , available worldwide 
+    -completely block all possibility of firmware updates
+    -ability to run 24/7 via usb, self-hosted payload, no external apps or programs required.
     -no need to edit dns servers or settings, features automatic redirect.
     -easy updates via usb
     -very low power consumption
