@@ -56,7 +56,18 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
     -add ability to set custom SSID with password
     -add ability to upload files/payloads                  
     
+   Payloads included in esphostmulti.bin
    
+    -VORTEX HEN 1.4
+    -VORTEX HEN 1.4+VR
+    -VORTEX DUMPER 1.7
+    -VORTEX FTP 1.2
+    -BACKUP BY STOOGED
+    -APPTOUSB V3 BY STOOGED
+    
+   Issues
+   
+     Sometimes you have to refresh page to make payload successful 
 
    Notice and credits
    
@@ -64,5 +75,5 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
     
     Credit should be given to the original authors.
     
-    also credit to KiiWii for his payload bundle and html template
+    Credit to KiiWii for his payload index and html template
     it saved much time.
