@@ -9,7 +9,7 @@ Benefits of using the ESP8266
 
     
     -extremely low cost hardware , available worldwide
-    -ability to run 24/7 via usb, self-hosted payload, no external apps or programs required.
+    -ability to run 24/7 via usb, self-hosted payloads, no external apps or programs required.
     -completely block all updates
     -no need for custom dns server or settings, features automatic redirect.
     -easy to program and update via usb
@@ -19,17 +19,19 @@ Benefits of using the ESP8266
 Requirements:
 
     -esptool.py https://github.com/espressif/esptool 
-    -ESP8266 Wifi Module with at least 4M flash https://tinyurl.com/y9xskhcy
+    -ESP8266 Wifi Module with at least 4M flash
     -Firmware 4.55 
-
+    -esphost.bin or esphostmulti.bin 
 
 
 
 Instructions:
 
-    Flash esphost.bin using the following command:
-
+    Flash esphost.bin or esphostmulti.bin using the following command:
+    
     sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 0x400000 ./esphost.bin
+                                    OR
+    sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 0x400000 ./esphostmulti.bin
     
     -after flashing completes, connect to "PS4-WIFI" using "easy setting" then go to [Settings] > [User Guide]
     
@@ -52,7 +54,11 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
    To-Do
     
     -add ability to set custom SSID with password
-    -add ability to serve multiple payloads 
-    -add ability to upload files/payloads
-    -fix any bugs                           
+    -add ability to upload files/payloads                  
+    
+   
 
+   Notice
+   
+    I did not develope the payloads contained in esphost.
+    Credit should be given to the original authors.
