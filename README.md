@@ -49,7 +49,7 @@ Instructions:
     
     -NOTE: windows users must use the appropriate com port when flashing with esptool.py
     -NOTE2: users can optionally flash using the GUI version of esptool  https://github.com/Rodmg/esptool-gui
-    
+    -NOTE3 sometimes you have to refresh the page to make payload successful 
 Compatible boards:
 
 These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larger will work.
@@ -67,11 +67,7 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
     
     -add ability to set custom SSID with password
     -add ability to upload files/payloads                  
-    
-    
-   Issues
    
-     Sometimes you have to refresh page to make payload successful 
 
    Notice and credits
    
