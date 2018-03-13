@@ -71,7 +71,7 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
 
    Notice and credits
    
-    I did not develope the payloads contained in esphost.
+    I did not develop the payloads contained in esphost.
     
     Credit should be given to the original authors.
     
