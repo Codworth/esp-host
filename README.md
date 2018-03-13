@@ -49,7 +49,7 @@ Instructions:
     
     -NOTE: windows users must use the appropriate com port when flashing with esptool.py
     -NOTE2: users can optionally flash using the GUI version of esptool  https://github.com/Rodmg/esptool-gui
-    -NOTE3 sometimes you have to refresh the page to make payload successful 
+    -NOTE3 when using multi sometimes it glitches and you must reload page to make payload successful
 Compatible boards:
 
 These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larger will work.
