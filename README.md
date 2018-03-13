@@ -23,7 +23,19 @@ Requirements:
     -Firmware 4.55 
     -esphost.bin or esphostmulti.bin 
 
-
+   Payloads included in esphostmulti.bin
+   
+    -VORTEX HEN 1.4
+    -VORTEX HEN 1.4+VR
+    -VORTEX DUMPER 1.7
+    -VORTEX FTP 1.2
+    -BACKUP BY STOOGED
+    -APPTOUSB V3 BY STOOGED
+   
+   Payloads included in esphost.bin
+   
+  
+    -VORTEX HEN 1.4
 
 Instructions:
 
@@ -56,14 +68,6 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
     -add ability to set custom SSID with password
     -add ability to upload files/payloads                  
     
-   Payloads included in esphostmulti.bin
-   
-    -VORTEX HEN 1.4
-    -VORTEX HEN 1.4+VR
-    -VORTEX DUMPER 1.7
-    -VORTEX FTP 1.2
-    -BACKUP BY STOOGED
-    -APPTOUSB V3 BY STOOGED
     
    Issues
    
