@@ -22,7 +22,12 @@ Requirements:
     -ESP8266 Wifi Module with at least 4M flash
     -Firmware 4.55 
     -esphost.bin or esphostmulti.bin 
-
+   
+   Payloads included in esphost.bin
+   
+  
+    -VORTEX HEN 1.4
+    
    Payloads included in esphostmulti.bin
    
     -VORTEX HEN 1.4
@@ -31,11 +36,6 @@ Requirements:
     -VORTEX FTP 1.2
     -BACKUP BY STOOGED
     -APPTOUSB V3 BY STOOGED
-   
-   Payloads included in esphost.bin
-   
-  
-    -VORTEX HEN 1.4
 
 Instructions:
 
