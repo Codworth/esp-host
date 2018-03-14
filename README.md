@@ -20,8 +20,8 @@ Requirements:
 
     -esptool.py https://github.com/espressif/esptool 
     -ESP8266 Wifi Module with at least 4M flash
-    -Firmware 4.55 
-    -esphost.bin or esphostmulti.bin 
+    -Firmware 4.55 or 4.05 (untested on 4.05)
+    -esphost.bin or esphostmulti.bin or esphostmulti405.bin
    
    Payloads included in esphost.bin
    
@@ -39,17 +39,15 @@ Requirements:
 
 Instructions:
 
-    Flash esphost.bin or esphostmulti.bin using the following command:
+    Flash esp host using the following command:
     
     sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 0x400000 ./esphost.bin
-                                    OR
-    sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 0x400000 ./esphostmulti.bin
     
     -after flashing completes, connect to "PS4-WIFI" using "easy setting" then go to [Settings] > [User Guide]
     
     -NOTE: windows users must use the appropriate com port when flashing with esptool.py
     -NOTE2: users can optionally flash using the GUI version of esptool  https://github.com/Rodmg/esptool-gui
-    -NOTE3 when using multi sometimes it glitches and you must reload page to make payload successful
+    -NOTE3 when using multi sometimes the page will hang, to fix refresh the page to make sucessful.
 Compatible boards:
 
 These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larger will work.
@@ -65,7 +63,6 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
                                
    To-Do
     
-    -add ability to set custom SSID with password
     -add ability to upload files/payloads                  
    
 
@@ -73,7 +70,6 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
    
     I did not develop the payloads contained in esphost.
     
-    Credit should be given to the original authors.
+    Credit should be given to the original authors
     
-    Credit to KiiWii for his payload index and html template
-    it saved much time.
+
