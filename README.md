@@ -2,7 +2,7 @@
 
 Today I show you a simple way to serve payloads using the esp8266
 
-![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esp8266.jpg)
+![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esphost.jpg)
 
 
 Benefits of using the ESP8266
