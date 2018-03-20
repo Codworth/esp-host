@@ -5,9 +5,9 @@ Today I show you a simple way to serve payloads using the esp8266
 ![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esphost.jpg)
 
 
-Benefits of using the ESP8266
+Benefits of using esp-host
 
-    
+    -features stable payloads, no memory errors or reloading pages.
     -extremely low cost hardware , available worldwide
     -ability to run 24/7 via usb, self-hosted payloads, no external apps or programs required.
     -completely block all updates
@@ -19,7 +19,7 @@ Benefits of using the ESP8266
 Requirements:
 
     -esptool.py https://github.com/espressif/esptool 
-    -ESP8266 Wifi Module with at least 4M flash
+    -ESP8266 Module with at least 4M flash
     -Firmware 4.55 or 4.05 (untested on 4.05)
     -esphost.bin or esphostmulti.bin or esphostmulti405.bin
    
@@ -30,7 +30,13 @@ Requirements:
     
    Payloads included in esphostmulti.bin
    
-   https://github.com/pearlxcore/ps4-playground-455
+    - HEN
+    - HEN+VR
+    - FTP
+    - DUMPER
+    - BACKUP
+   
+    https://github.com/pearlxcore/ps4-playground-455
 
 Instructions:
 
