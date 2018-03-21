@@ -9,7 +9,7 @@ Benefits of using esp-host
 
     -extremely low cost hardware , available worldwide
     -ability to run 24/7 via usb, self-hosted payloads, no external apps or programs required.
-    -features stable payloads, no memory errors or reloading pages.
+    -includes stable payloads, no memory errors or reloading pages.
     -completely block all updates
     -no need for custom dns server or settings, features automatic redirect.
     -easy to program and update via usb
@@ -26,15 +26,15 @@ Requirements:
    Payloads included in esphost.bin
    
   
-    -VORTEX HEN 1.4
+    -VORTEX HEN 1.4 
     
    Payloads included in esphostmulti.bin
    
-    - HEN
-    - HEN+VR
-    - FTP
-    - DUMPER
-    - BACKUP
+    - HEN (stable)
+    - HEN+VR (stable)
+    - FTP (stable)
+    - DUMPER (stable)
+    - BACKUP (stable)
    
     https://github.com/pearlxcore/ps4-playground-455
 
@@ -66,11 +66,13 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
                                
    To-Do
     
-    -add ability to upload files/payloads                  
-   
+    -add ability to upload files via http
+    -custom ssid & password
+    
 
    Notice and credits
     
-    Credit should be given to original authors of payloads - you know who you are.
+    Credit should be given to original authors of payloads - qwertyoruiopz ,Flatz , Anonymous , Vortex, Stooged , pearlxcore ,            
+    and anyone else who worked on the payloads.
     
 
