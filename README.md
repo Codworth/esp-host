@@ -7,9 +7,9 @@ Today I show you a simple way to serve payloads using the esp8266
 
 Benefits of using esp-host
 
-    -features stable payloads, no memory errors or reloading pages.
     -extremely low cost hardware , available worldwide
     -ability to run 24/7 via usb, self-hosted payloads, no external apps or programs required.
+    -features stable payloads, no memory errors or reloading pages.
     -completely block all updates
     -no need for custom dns server or settings, features automatic redirect.
     -easy to program and update via usb
@@ -20,7 +20,7 @@ Requirements:
 
     -esptool.py https://github.com/espressif/esptool 
     -ESP8266 Module with at least 4M flash
-    -Firmware 4.55 or 4.05 (untested on 4.05)
+    -Firmware 4.55 or 4.05 
     -esphost.bin or esphostmulti.bin or esphostmulti405.bin
    
    Payloads included in esphost.bin
@@ -42,12 +42,15 @@ Instructions:
 
     Flash esp host using the following command:
     
-    sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 0x400000 ./esphost.bin
-    
+    sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 ./esphostmulti.bin
+
     -after flashing completes, connect to "PS4-WIFI" using "easy setting" then go to [Settings] > [User Guide]
     
     -NOTE: windows users must use the appropriate com port when flashing with esptool.py
+    
     -NOTE2: users can optionally flash using the GUI version of esptool  https://github.com/Rodmg/esptool-gui
+    
+    
 Compatible boards:
 
 These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larger will work.
