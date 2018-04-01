@@ -66,7 +66,7 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
                                
    To-Do
     
-    -add ability to upload files via http
+    -add http uploading or ftp server
     -custom ssid & password
     
 
