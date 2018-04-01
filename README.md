@@ -26,7 +26,7 @@ Requirements:
    Payloads included in esphost.bin
    
   
-    -VORTEX HEN 1.4 
+    -VORTEX HEN (stable)
     
    Payloads included in esphostmulti.bin
    
@@ -72,7 +72,7 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
 
    Notice and credits
     
-    Credit should be given to original authors of payloads - qwertyoruiopz ,Flatz , Anonymous , Vortex, Stooged , pearlxcore ,            
-    and anyone else who worked on the payloads.
+    Credit should be given to original authors of payloads - qwertyoruiopz ,Flatz , Anonymous , Vortex, Stooged  and anyone else who worked on the payloads. Credit to pearlxcore for his payload index used in esphostmulti            
+   
     
 
