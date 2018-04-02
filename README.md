@@ -26,7 +26,7 @@ Requirements:
    Payloads included in esphost.bin
    
   
-    -VORTEX HEN (stable)
+    -VORTEX HEN+VR (stable)
     
    Payloads included in esphostmulti.bin
    
