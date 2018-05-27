@@ -2,7 +2,7 @@
 
 Today I show you a simple way to serve payloads using the esp8266
 
-This works with firmware 5.05  4.55 and 4.05
+This works with firmware 5.05 / 4.55 / 4.05
 
 ![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esphost.jpg)
 
