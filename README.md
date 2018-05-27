@@ -38,7 +38,7 @@ Requirements:
     - DUMPER (stable)
     - BACKUP (stable)
     
-   Payloads included in esphost505.bin
+   Payloads included in esphost505.bin (5.05 Only)
    
     Vortex's HEN (Homebrew Enabler)
     Mira
