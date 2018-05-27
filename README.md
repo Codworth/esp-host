@@ -1,6 +1,7 @@
 # esp-host
 
 Today I show you a simple way to serve payloads using the esp8266
+This works with firmware 5.05 , 4.55 and 4.05
 
 ![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esphost.jpg)
 
@@ -20,23 +21,27 @@ Requirements:
 
     -esptool.py https://github.com/espressif/esptool 
     -ESP8266 Module with at least 4M flash
-    -Firmware 4.55 or 4.05 
-    -esphost.bin or esphostmulti.bin or esphostmulti405.bin
+    -Firmware 5.05 4.55 or 4.05 
+    -.bin file you want to flash
    
-   Payloads included in esphost.bin
+   Payloads included in esphost.bin (4.55 Only)
    
   
     -VORTEX HEN+VR (stable)
     
-   Payloads included in esphostmulti.bin
+   Payloads included in esphostmulti.bin (4.55 Only)
    
     - HEN (stable)
     - HEN+VR (stable)
     - FTP (stable)
     - DUMPER (stable)
     - BACKUP (stable)
+    
+   Payloads included in esphost505.bin
    
-    https://github.com/pearlxcore/ps4-playground-455
+    Vortex's HEN (Homebrew Enabler)
+    Mira
+
 
 Instructions:
 
@@ -72,7 +77,7 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
 
    Notice and credits
     
-    Credit should be given to original authors of payloads - qwertyoruiopz ,Flatz , Anonymous , Vortex, Stooged  and anyone else who worked on the payloads. Credit to pearlxcore for his payload index used in esphostmulti            
+    Credit should be given to original authors of payloads - qwertyoruiopz ,Flatz , Anonymous , Vortex, Stooged  and anyone else who I missed.
    
     
 
