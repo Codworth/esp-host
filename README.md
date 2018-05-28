@@ -12,6 +12,7 @@ Benefits of using esp-host
     -extremely low cost hardware , available worldwide
     -ability to run 24/7 via usb, self-hosted payloads, no external apps or programs required.
     -includes stable payloads, almost no memory errors or reloading pages.
+    -designed to be lightweight and fast
     -completely block all updates
     -no need for custom dns server or settings, features automatic redirect.
     -easy to program and update via usb
