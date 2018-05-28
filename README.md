@@ -41,8 +41,7 @@ Requirements:
     
    Payloads included in esphost505.bin (5.05 Only)
    
-    Vortex's HEN (Homebrew Enabler)
-    Mira
+    HEN/Mira (Homebrew Enabler)
     
    Payloads included in esphostmulti505.bin (5.05 Only)
    
