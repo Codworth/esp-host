@@ -42,7 +42,11 @@ Requirements:
    
     Vortex's HEN (Homebrew Enabler)
     Mira
-
+    
+   Payloads included in esphostmulti505.bin (5.05 Only)
+   Hen/Mira
+   FTP  
+   Dumper
 
 Instructions:
 
