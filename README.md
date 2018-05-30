@@ -18,7 +18,7 @@ Benefits of using esp-host
     -no need for custom dns server or settings, features automatic redirect.
     -easy to program and update via usb
     -very low power consumption
-    -All versions of esphostmini firmware will auto-launch payload upon selecting user-guide.
+    -*all versions of esphostmini firmware will auto-launch payload upon selecting user-guide.*
 
    -------------------------------------------------------------------------------
 Requirements:
