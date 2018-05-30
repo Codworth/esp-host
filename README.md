@@ -29,7 +29,7 @@ Requirements:
     -.bin file you want to flash
     
    -------------------------------------------------------------------------------
-   Payloads included in esphost4.05.bin (4.05 Only)
+   Payloads included in esphost405.bin (4.05 Only)
    
     -HEN
     -HEN +VR
