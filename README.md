@@ -27,7 +27,7 @@ Requirements:
     -ESP8266 Module with at least 4M flash
     -Firmware 5.05 4.55 or 4.05 
     -.bin file you want to flash
-    -All versions of 
+    
    -------------------------------------------------------------------------------
    Payloads included in esphostmulti405.bin (4.05 Only)
    
