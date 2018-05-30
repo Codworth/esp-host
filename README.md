@@ -18,7 +18,7 @@ Benefits of using esp-host
     -no need for custom dns server or settings, features automatic redirect.
     -easy to program and update via usb
     -very low power consumption
-
+    -All versions of esphostmini firmware will auto-launch payload upon selecting user-guide.
 
    -------------------------------------------------------------------------------
 Requirements:
@@ -27,7 +27,7 @@ Requirements:
     -ESP8266 Module with at least 4M flash
     -Firmware 5.05 4.55 or 4.05 
     -.bin file you want to flash
-    
+    -All versions of 
    -------------------------------------------------------------------------------
    Payloads included in esphostmulti405.bin (4.05 Only)
    
@@ -42,7 +42,6 @@ Requirements:
    -------------------------------------------------------------------------------
    
    Payload included in esphostmini455.bin (4.55 Only)
-   *payload will autolaunch when you select userguide*
    
     -HEN+VR (stable)
     
@@ -56,8 +55,7 @@ Requirements:
     - BACKUP (stable)
     
    -------------------------------------------------------------------------------
-   Payloads included in esphostmini505.bin (5.05 Only) 
-   *payload will autolaunch when you select userguide*
+   Payloads included in esphostmini505.bin (5.05 Only)
    
     -xVortex 1.6 HEN
     
@@ -73,7 +71,7 @@ Instructions:
 
     Flash esp host using the following command:
     
-    sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 ./esphostmulti.bin
+    sudo esptool.py --port /dev/ttyUSB0 write_flash 0x00000 ./esphostmini505.bin
 
     -after flashing completes, connect to "PS4-WIFI" using "easy setting" then go to [Settings] > [User Guide]
     
