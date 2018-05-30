@@ -44,7 +44,6 @@ Requirements:
    Payload included in esphostmini455.bin (4.55 Only)
    *payload will autolaunch when you select userguide*
    
-  
     -HEN+VR (stable)
     
    -------------------------------------------------------------------------------
@@ -61,11 +60,6 @@ Requirements:
    *payload will autolaunch when you select userguide*
    
     -xVortex 1.6 HEN
-    
-   -------------------------------------------------------------------------------
-   Payloads included in esphost505.bin (5.05 Only)
-   
-    HEN/Mira (Homebrew Enabler)
     
    -------------------------------------------------------------------------------
    Payloads included in esphostmulti505.bin (5.05 Only)
