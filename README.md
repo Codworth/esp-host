@@ -18,43 +18,17 @@ Benefits of using esp-host
     -no need for custom dns server or settings, features automatic redirect.
     -easy to program and update via usb
     -very low power consumption
-    -*all versions of esphostmini firmware will auto-launch payload upon selecting user-guide.*
+    -*all versions of esphostmini auto-launch payload upon selecting user-guide.*
 
    -------------------------------------------------------------------------------
-Requirements:
+   Requirements:
 
     -esptool.py https://github.com/espressif/esptool 
     -ESP8266 Module with at least 4M flash
     -Firmware 5.05 4.55 or 4.05 
     -.bin file you want to flash
-    
-   -------------------------------------------------------------------------------
-   Payloads included in esphostmulti405.bin (4.05 Only)
-   
-    -HEN
-    -HEN +VR
-    -Dumper
-    -FTP
-    -DB BACKUP
-    -ORIGINAL
-    -ORIGINAL+JB
-   
    -------------------------------------------------------------------------------
    
-   Payload included in esphostmini455.bin (4.55 Only)
-   
-    -HEN+VR (stable)
-    
-   -------------------------------------------------------------------------------
-   Payloads included in esphostmulti455.bin (4.55 Only)
-   
-    - HEN (stable)
-    - HEN+VR (stable)
-    - FTP (stable)
-    - DUMPER (stable)
-    - BACKUP (stable)
-    
-   -------------------------------------------------------------------------------
    Payloads included in esphostmini505.bin (5.05 Only)
    
     -xVortex 1.6 HEN
@@ -67,6 +41,33 @@ Requirements:
     Dumper
 
    -------------------------------------------------------------------------------
+   
+   Payload included in esphostmini455.bin (4.55 Only)
+   
+    -HEN+VR (stable)
+    
+   -------------------------------------------------------------------------------
+   
+   Payloads included in esphostmulti455.bin (4.55 Only)
+   
+    - HEN (stable)
+    - HEN+VR (stable)
+    - FTP (stable)
+    - DUMPER (stable)
+    - BACKUP (stable)
+    
+   -------------------------------------------------------------------------------
+   Payloads included in esphostmulti405.bin (4.05 Only)
+   
+    -HEN
+    -HEN +VR
+    -Dumper
+    -FTP
+    -DB BACKUP
+    -ORIGINAL
+    -ORIGINAL+JB
+   -------------------------------------------------------------------------------
+
 Instructions:
 
     Flash esp host using the following command:
