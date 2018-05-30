@@ -41,14 +41,14 @@ Requirements:
    
    -------------------------------------------------------------------------------
    
-   Payload included in esphost.bin (4.55 Only)
+   Payload included in esphostmini455.bin (4.55 Only)
    *payload will autolaunch when you select userguide*
    
   
     -HEN+VR (stable)
     
    -------------------------------------------------------------------------------
-   Payloads included in esphostmulti.bin (4.55 Only)
+   Payloads included in esphostmulti455.bin (4.55 Only)
    
     - HEN (stable)
     - HEN+VR (stable)
