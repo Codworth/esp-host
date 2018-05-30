@@ -7,6 +7,7 @@ This works with firmware 5.05 / 4.55 / 4.05
 ![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esphost.jpg)
 
 
+   -------------------------------------------------------------------------------
 Benefits of using esp-host
 
     -extremely low cost hardware , available worldwide
@@ -19,18 +20,34 @@ Benefits of using esp-host
     -very low power consumption
 
 
+   -------------------------------------------------------------------------------
 Requirements:
 
     -esptool.py https://github.com/espressif/esptool 
     -ESP8266 Module with at least 4M flash
     -Firmware 5.05 4.55 or 4.05 
     -.bin file you want to flash
+    
+   -------------------------------------------------------------------------------
+   Payloads included in esphost4.05.bin (4.05 Only)
    
-   Payloads included in esphost.bin (4.55 Only)
+    -HEN
+    -HEN +VR
+    -Dumper
+    -FTP
+    -DB BACKUP
+    -ORIGINAL
+    -ORIGINAL+JB
+   
+   -------------------------------------------------------------------------------
+   
+   Payload included in esphost.bin (4.55 Only)
+   *payload will autolaunch when you select userguide*
    
   
-    -VORTEX HEN+VR (stable)
+    -HEN+VR (stable)
     
+   -------------------------------------------------------------------------------
    Payloads included in esphostmulti.bin (4.55 Only)
    
     - HEN (stable)
@@ -39,16 +56,25 @@ Requirements:
     - DUMPER (stable)
     - BACKUP (stable)
     
+   -------------------------------------------------------------------------------
+   Payloads included in esphostmini505.bin (5.05 Only) 
+   *payload will autolaunch when you select userguide*
+   
+    -xVortex 1.6 HEN
+    
+   -------------------------------------------------------------------------------
    Payloads included in esphost505.bin (5.05 Only)
    
     HEN/Mira (Homebrew Enabler)
     
+   -------------------------------------------------------------------------------
    Payloads included in esphostmulti505.bin (5.05 Only)
    
     Hen/Mira
     FTP  
     Dumper
 
+   -------------------------------------------------------------------------------
 Instructions:
 
     Flash esp host using the following command:
@@ -61,6 +87,7 @@ Instructions:
     
     -NOTE2: users can optionally flash using the GUI version of esptool  https://github.com/Rodmg/esptool-gui
     
+   -------------------------------------------------------------------------------
     
 Compatible boards:
 
@@ -74,16 +101,18 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
     ESP8266 D1 Mini NodeMcu 4M              (amazon) https://tinyurl.com/y9mx83ev
                                             (aliexpress)https://tinyurl.com/y8rqfafz
                                
-                               
+   
+   -------------------------------------------------------------------------------                            
    To-Do
     
     -add http uploading or ftp server
     -custom ssid & password
     
 
+   -------------------------------------------------------------------------------
    Notice and credits
     
-    Credit should be given to original authors of payloads - qwertyoruiopz ,Flatz , Anonymous , Vortex, Stooged  and anyone else who I missed.
+    Credit should be given to original authors of payloads - qwertyoruiopz ,Flatz , Anonymous , xVortex, Stooged  and anyone else who I missed.
    
     
 
