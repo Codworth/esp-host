@@ -36,7 +36,7 @@ Benefits of using esp-host
    -------------------------------------------------------------------------------
    Payloads included in esphostmulti505.bin (5.05 Only)
    
-    Hen/Mira
+    Vortex Hen + MiraFW
     FTP  
     Dumper
 
