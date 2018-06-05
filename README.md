@@ -49,7 +49,6 @@ Benefits of using esp-host
     Disable Updates
     Enable Updates
     Update-Blocker-Extreme
-    Bin Loader
     Dumper
     APP2USB
     Backup
