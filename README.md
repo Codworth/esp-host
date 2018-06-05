@@ -2,7 +2,7 @@
 Simple, Lightweight and Fast.
 
 This works with firmware 5.05 / 4.55 / 4.05
-![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esphostmega505.jpg)
+![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/mega505.jpg)
 ![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esphost.jpg)
 
 
