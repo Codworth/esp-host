@@ -1,6 +1,5 @@
 # esp-host
-
-Today I show you a simple way to serve payloads using the esp8266
+Simple, Lightweight and Fast.
 
 This works with firmware 5.05 / 4.55 / 4.05
 ![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esphostmega505.jpg)
@@ -11,10 +10,10 @@ This works with firmware 5.05 / 4.55 / 4.05
    -------------------------------------------------------------------------------
 Benefits of using esp-host
 
+    -designed to be lightweight and fast
     -extremely low cost hardware , available worldwide
     -ability to run 24/7 via usb, self-hosted payloads, no external apps or programs required.
     -includes stable payloads, almost no memory errors or reloading pages.
-    -designed to be lightweight and fast
     -completely block all updates
     -no need for custom dns server or settings, features automatic redirect.
     -easy to program and update via usb
@@ -45,8 +44,23 @@ Benefits of using esp-host
    
    Payloads included in esphostmulti505.bin (5.05 Only)
    
-  
-   
+    Disable Updates
+    Enable Updates
+    Update-Blocker-Extreme
+    Bin Loader
+    Dumper
+    APP2USB
+    Backup
+    Kernel Dumper
+    FTP
+    FTP+RW
+    REACT_PSNPLUS
+    DISABLE REACT
+    LINUX
+    HEN+MIRA
+    HEN
+    ORIGINAL
+    
    -------------------------------------------------------------------------------
    
    Payload included in esphostmini455.bin (4.55 Only)
@@ -112,7 +126,7 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
    -------------------------------------------------------------------------------
    Notice and credits
     
-    Credit should be given to original authors of payloads - qwertyoruiopz ,Flatz , Anonymous , xVortex, Stooged  and anyone else who I missed.
+   qwertyoruiopz ,Flatz , Anonymous , xVortex, Stooged ,  LightningMods , Team Mira and anyone else I missed
    
     
 
