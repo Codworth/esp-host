@@ -3,8 +3,9 @@
 Today I show you a simple way to serve payloads using the esp8266
 
 This works with firmware 5.05 / 4.55 / 4.05
-
+![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esphostmega505.jpg)
 ![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esphost.jpg)
+
 
 
    -------------------------------------------------------------------------------
@@ -40,6 +41,12 @@ Benefits of using esp-host
     FTP  
     Dumper
 
+   -------------------------------------------------------------------------------
+   
+   Payloads included in esphostmulti505.bin (5.05 Only)
+   
+  
+   
    -------------------------------------------------------------------------------
    
    Payload included in esphostmini455.bin (4.55 Only)
