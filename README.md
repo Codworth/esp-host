@@ -1,8 +1,9 @@
 # esp-host
+
 Lightweight Simple and Fast.
 
 This works with firmware 5.05 / 4.55 / 4.05
-![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esp505mega.jpg)
+
 ![alt tag](https://raw.githubusercontent.com/Codworth/esp-host/master/esphost.jpg)
 
 
