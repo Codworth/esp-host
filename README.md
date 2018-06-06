@@ -33,12 +33,12 @@ Benefits of using esp-host
    
    Payloads included in esphostmini505.bin (5.05 Only)
    
-    -xVortex 1.6 HEN
+    -xVortex HEN
     
    -------------------------------------------------------------------------------
    Payloads included in esphostmulti505.bin (5.05 Only)
    
-    Vortex Hen + MiraFW
+    Hen + MiraFW
     FTP  
     Dumper
 
@@ -125,7 +125,7 @@ These are the most popluar esp8266 boards, but any esp8266 with 4M flash or larg
     
 
    -------------------------------------------------------------------------------
-   Notice and credits
+   Notice and credits:
     
    qwertyoruiopz ,Flatz , Anonymous , xVortex, Stooged ,  LightningMods , Team Mira and anyone else I missed
    
