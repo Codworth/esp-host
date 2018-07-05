@@ -33,7 +33,7 @@ Benefits of using esp-host
    
    Payloads included in esphostmini505.bin (5.05 Only)
    
-    -xVortex HEN
+    -xVortex HEN 1.7 (with external HDD support, thanks to flatz)
     
    -------------------------------------------------------------------------------
    Payloads included in esphostmulti505.bin (5.05 Only)
