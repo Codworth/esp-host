@@ -44,22 +44,22 @@ Benefits of using esp-host
 
    -------------------------------------------------------------------------------
    
-   Payloads included in esphostmulti505.bin (5.05 Only)
+   Payloads included in esphostmega505.bin (5.05 Only)
    
-    Disable Updates
-    Enable Updates
-    Update-Blocker-Extreme
+    HEN+MIRA
+    xVortex HEN 1.7 (with external HDD support, thanks to flatz)
     Dumper
     APP2USB
     Backup
-    Kernel Dumper
     FTP
     FTP+RW
     REACT_PSNPLUS
     DISABLE REACT
+    Disable Updates
+    Enable Updates
+    Update-Blocker-Extreme
+    Kernel Dumper
     LINUX
-    HEN+MIRA
-    xVortex HEN 1.7 (with external HDD support, thanks to flatz)
     ORIGINAL
     
    -------------------------------------------------------------------------------
