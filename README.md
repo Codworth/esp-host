@@ -59,7 +59,7 @@ Benefits of using esp-host
     DISABLE REACT
     LINUX
     HEN+MIRA
-    HEN
+    xVortex HEN 1.7 (with external HDD support, thanks to flatz)
     ORIGINAL
     
    -------------------------------------------------------------------------------
